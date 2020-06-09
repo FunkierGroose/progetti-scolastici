@@ -1,0 +1,116 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000000;
+    background: url(Traveler.full.1431033.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: 100px;
+    top: 10%;
+    left: 15%;
+    position: absolute;
+    background: none;
+    letter-spacing: 5px;
+}
+h3{
+    top: 35%;
+    left: 15%;
+    position: absolute;
+    background: none;
+}
+#inizio{
+    top: 40%;
+    left: 15%;
+    position: absolute;
+    background: none;
+    width: 200px;
+    border-right:   none; 
+    border-left:none;
+    border-top: none;
+    border-bottom: 2px solid #000000;
+    padding: 1%;
+    outline: none;
+}
+#fine1{
+    top: 50%;
+    left: 15%;
+    position: absolute;
+    background: none;
+    width: 200px;
+    border-right:   none; 
+    border-left:none;
+    border-top: none;
+    border-bottom: 2px solid #000000;
+    padding: 1%;
+    outline: none;
+}
+#fine2{
+    top: 40%;
+    left: 30%;
+    position: absolute;
+    background: none;
+    width: 200px;
+    border-right:   none; 
+    border-left:none;
+    border-top: none;
+    border-bottom: 2px solid #000000;
+    padding: 1%;
+    outline: none;
+}
+#fine3{
+    top: 50%;
+    left: 30%;
+    position: absolute;
+    background: none;
+    width: 200px;
+    border-right:   none; 
+    border-left:none;
+    border-top: none;
+    border-bottom: 2px solid #000000;
+    padding: 1%;
+    outline: none;
+}
+#fine4{
+    top: 45%;
+    left: 45%;
+    position: absolute;
+    background: none;
+    width: 200px;
+    border-right:   none; 
+    border-left:none;
+    border-top: none;
+    border-bottom: 2px solid #000000;
+    padding: 1%;
+    outline: none;
+}
+input[type=submit]{
+    top: 45%;
+    left: 60%;
+    cursor: pointer;
+    position: absolute;
+    background: none;
+    width: 150px;
+    border-right:   none; 
+    border-left:none;
+    border-top: none;
+    border-bottom: 2px solid #000000;
+    padding: 1%;
+    outline: none;
+    font-weight: bold;
+}
+input[type=submit]:hover{
+    width: 100px;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    color: #000000;
+    background: greenyellow;
+    transition: 0.50s;
+}
+::placeholder{color: #000; font-weight: bold;}
+.ris{
+    font-weight: bold;
+    top: 60%;
+    left: 15%;
+    position: absolute;
+    background: none;
+}
